@@ -7,17 +7,9 @@ I am part of the [Biomimetics and Fluid-Structure Interaction team](https://www.
 
 # Research interest
 
-
-
 # Teaching activities
 
-<iframe width="480" height="360" src="http://www.youtube.com/embed/WO82PoAczTc" frameborder="0"> </iframe>
-
 # Activities
-
-
-
-
 
 ```js
 // Javascript code with syntax highlighting.

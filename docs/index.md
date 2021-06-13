@@ -8,7 +8,7 @@ Text can be **bold**, _italic_, or ~~strikethrough~~.
 
 I am currently a Ph.D student at [PMMH laboratory](https://www.pmmh.espci.fr/?-Accueil-) (ESPCI, Sorbonne Université & Université de Paris) since October 2020. 
 
-I am part of the [Biomimetics and Fluid-Structure Interaction team](https://www.pmmh.espci.fr/Biomimetics-and-Fluid-Structure-Interaction), under the direction of [Benjamin Thiria](https://scholar.google.fr/citations?user=Ho7KLfUAAAAJ&hl=fr) and [Ramiro Godoy-Diana](https://scholar.google.fr/citations?hl=fr&user=lzeU13YAAAAJ)
+I am part of the [Biomimetics and Fluid-Structure Interaction team](https://www.pmmh.espci.fr/Biomimetics-and-Fluid-Structure-Interaction), under the direction of [Benjamin Thiria](https://scholar.google.fr/citations?user=Ho7KLfUAAAAJ&hl=fr) and [Ramiro Godoy-Diana](https://scholar.google.fr/citations?hl=fr&user=lzeU13YAAAAJ).
 
 # Research interest
 

@@ -18,12 +18,11 @@ I am part of the [Biomimetics and Fluid-Structure Interaction team](https://www.
 
 <iframe width="480" height="360" src="http://www.youtube.com/embed/WO82PoAczTc" frameborder="0"> </iframe>
 
-
-> This is a blockquote following a header.
->
-> When something is important enough, you do it even if the odds are not in your favor.
-
 # Activities
+
+
+
+
 
 ```js
 // Javascript code with syntax highlighting.

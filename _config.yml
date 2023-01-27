@@ -58,7 +58,7 @@ plugins:
 
 author:
   avatar: "/assets/images/profil_laser.JPG"
-  bio: "I am a PhD student in the <a href="https://www.pmmh.espci.fr/?-Le-laboratoire-">PMMH laboratory</a> in Paris."
+  bio: "I am a PhD student in the PMMH in Paris."
   location: "Paris, France"
   links:
     - label: "Email"

@@ -22,8 +22,8 @@ twitter_username: baptiste_lfx
 github_username: baptiste_lfx
 minimal_mistakes_skin: contrast
 search: false
-#atom_feed:
-#    hide: true
+atom_feed:
+    hide: true
 #
 # Build settings
 markdown: kramdown
@@ -113,7 +113,7 @@ defaults:
       type: pages
     values:
       layout: single
-      author_profile: true
+      author_profile: false
 
 category_archive:
   type: liquid

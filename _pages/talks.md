@@ -65,7 +65,7 @@ classes: wide
 * June 2019, [51es Journées de Statistique](http://jds2019.sfds.asso.fr/), Nancy, France, ([slides]({{ site.url }}{{ site.baseurl }}/assets/docs/slides_jds.pdf))
 * May 2019, PhD students seminar at LPSM, *Sorbonne Université, Paris, France*
 * April 2019, Rencontre des Jeunes Statisticiens, *Porquerolles, France*
--->
+--->
 
 
 

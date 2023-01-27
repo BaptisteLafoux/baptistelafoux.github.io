@@ -56,26 +56,26 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
-# author:
-#   avatar: "/assets/images/profil_laser.JPG"
-#   bio: "I am a PhD student in the <a href="https://www.pmmh.espci.fr/?-Le-laboratoire-">PMMH laboratory</a> in Paris."
-#   location: "Paris, France"
-#   links:
-#     - label: "Email"
-#       icon: "fas fa-fw fa-envelope"
-#       url: "mailto:baptiste.lafoux@espci.fr"
-#     - label: "GitHub"
-#       icon: "fab fa-fw fa-github"
-#       url: "https://github.com/BaptisteLafoux"
-#     - label: "Google Scholar"
-#       icon: "fas fa-fw fa-graduation-cap"
-#       url: "https://scholar.google.com/citations?user=ZgGBPKUAAAAJ&hl=en"
-#     - label: "Linkedin"
-#       icon: "fab fa-fw fa-linkedin"
-#       url: "https://www.linkedin.com/in/baptiste-lafoux/"
-#     - label: "Twitter"
-#       icon: "fab fa-fw fa-twitter-square"
-#       url: "https://twitter.com/baptiste_lfx"
+author:
+  avatar: "/assets/images/profil_laser.JPG"
+  bio: "I am a PhD student in the <a href="https://www.pmmh.espci.fr/?-Le-laboratoire-">PMMH laboratory</a> in Paris."
+  location: "Paris, France"
+  links:
+    - label: "Email"
+      icon: "fas fa-fw fa-envelope"
+      url: "mailto:baptiste.lafoux@espci.fr"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/BaptisteLafoux"
+    - label: "Google Scholar"
+      icon: "fas fa-fw fa-graduation-cap"
+      url: "https://scholar.google.com/citations?user=ZgGBPKUAAAAJ&hl=en"
+    - label: "Linkedin"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/baptiste-lafoux/"
+    - label: "Twitter"
+      icon: "fab fa-fw fa-twitter-square"
+      url: "https://twitter.com/baptiste_lfx"
 
 footer:
   links:

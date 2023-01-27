@@ -17,10 +17,10 @@ title: Baptiste Lafoux
 email: baptiste.lafoux@espci.fr
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to my personal page!
-url: https://baptistelafoux.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url: https://baptistelafoux.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 twitter_username: baptiste_lfx
 github_username: baptiste_lfx
-minimal_mistakes_skin: default
+minimal_mistakes_skin: contrast
 search: false
 #atom_feed:
 #    hide: true

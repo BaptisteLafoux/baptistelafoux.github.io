@@ -7,8 +7,8 @@ classes: wide
 Welcome to my personal page!
 
 
-I am since November 2020 a PhD student at the [PMMH laboratory](https://www.pmmh.espci.fr/?-Le-laboratoire-), ([ESPCI - PSL](https://www.espci.psl.eu/fr/), [Université Paris Cité](https://u-paris.fr/) & [Sorbonne Université](https://www.sorbonne-universite.fr/)).
-I am part of the Biomimetics and Fluid-Structure Interaction team (aka [BIOMIM](Biomimetics and Fluid-Structure Interaction)), under the supervision of [Benjamin Thiria](https://scholar.google.be/citations?user=Ho7KLfUAAAAJ&hl=fr) and [Ramiro Godoy-Diana](https://blog.espci.fr/ramiro/).
+I am since November 2020 a PhD student at the [**PMMH laboratory**](https://www.pmmh.espci.fr/?-Le-laboratoire-) (ESPCI - PSL, Université Paris Cité & Sorbonne Université).
+I am part of the **Biomimetics and Fluid-Structure Interaction team** (aka [BIOMIM](Biomimetics and Fluid-Structure Interaction)), under the supervision of [Benjamin Thiria](https://scholar.google.be/citations?user=Ho7KLfUAAAAJ&hl=fr) and [Ramiro Godoy-Diana](https://blog.espci.fr/ramiro/).
 
 <!---
 ou can find my complete C.V. [here]({{ site.url }}{{ site.baseurl }}/assets/docs/Detailed_CV_Fermanian.pdf).

@@ -13,18 +13,18 @@
 # you will see them accessed via {{ site.title }}, {{ site.email }}, and so on.
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
-title: Adeline Fermanian
-email: adeline.fermanian@mines-paristech.fr
+title: Baptiste Lafoux
+email: baptiste.lafoux@espci.fr
 description: >- # this means to ignore newlines until "baseurl:"
-  Welcome to my personal website!
-url: https://baptistelafoux.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
-twitter_username: AdelineFermani1
-github_username: afermanian
+  Welcome to my personal page!
+url: https://baptistelafoux.com # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+twitter_username: baptiste_lfx
+github_username: baptiste_lfx
 minimal_mistakes_skin: dirt
 search: false
-atom_feed:
-  hide: true
-
+#atom_feed:
+#    hide: true
+#
 # Build settings
 markdown: kramdown
 remote_theme: mmistakes/minimal-mistakes
@@ -57,45 +57,44 @@ plugins:
   - jemoji
   - jekyll-include-cache
 
-author:
-  # name   : "Adeline Fermanian"
-  avatar : "/assets/images/photoprofil.jpg"
-  bio    : "I am a postdoctoral researcher interested in theoretical machine learning."
-  location : "Paris, France"
-  links:
-    - label: "Email"
-      icon: "fas fa-fw fa-envelope"
-      url: "mailto:adeline.fermanian[at]mines-paristech[dot]fr"
-    - label: "GitHub"
-      icon: "fab fa-fw fa-github"
-      url: "https://github.com/afermanian"
-    - label: "Google Scholar"
-      icon: "fas fa-fw fa-graduation-cap"
-      url: "https://scholar.google.co.jp/citations?user=3Mfclk8AAAAJ&hl=en"
-    - label: "Linkedin"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/adelinefermanian/"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/AdelineFermani1"
+# author:
+#   avatar: "/assets/images/profil_laser.JPG"
+#   bio: "I am a PhD student in the <a href="https://www.pmmh.espci.fr/?-Le-laboratoire-">PMMH laboratory</a> in Paris."
+#   location: "Paris, France"
+#   links:
+#     - label: "Email"
+#       icon: "fas fa-fw fa-envelope"
+#       url: "mailto:baptiste.lafoux@espci.fr"
+#     - label: "GitHub"
+#       icon: "fab fa-fw fa-github"
+#       url: "https://github.com/BaptisteLafoux"
+#     - label: "Google Scholar"
+#       icon: "fas fa-fw fa-graduation-cap"
+#       url: "https://scholar.google.com/citations?user=ZgGBPKUAAAAJ&hl=en"
+#     - label: "Linkedin"
+#       icon: "fab fa-fw fa-linkedin"
+#       url: "https://www.linkedin.com/in/baptiste-lafoux/"
+#     - label: "Twitter"
+#       icon: "fab fa-fw fa-twitter-square"
+#       url: "https://twitter.com/baptiste_lfx"
 
 footer:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope"
-      url: "mailto:adeline.fermanian[at]mines-paristech[dot]fr"
+      url: "mailto:baptiste.lafoux@espci.fr"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
-      url: "https://github.com/afermanian"
+      url: "https://github.com/BaptisteLafoux"
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
-      url: "https://scholar.google.co.jp/citations?user=3Mfclk8AAAAJ&hl=en"
+      url: "https://scholar.google.com/citations?user=ZgGBPKUAAAAJ&hl=en"
     - label: "Linkedin"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://www.linkedin.com/in/adelinefermanian/"
+      url: "https://www.linkedin.com/in/baptiste-lafoux/"
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/AdelineFermani1"
+      url: "https://twitter.com/baptiste_lfx"
 
 defaults:
   # _posts

@@ -20,7 +20,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 url: https://baptistelafoux.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 twitter_username: baptiste_lfx
 github_username: baptiste_lfx
-minimal_mistakes_skin: contrast
+minimal_mistakes_skin: default
 search: false
 atom_feed:
     hide: true
@@ -94,6 +94,8 @@ footer:
     - label: "Twitter"
       icon: "fab fa-fw fa-twitter-square"
       url: "https://twitter.com/baptiste_lfx"
+    - label: "Orcid"
+      icon: "fa-brands fa-orcid"
 
 defaults:
   # _posts

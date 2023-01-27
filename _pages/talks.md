@@ -9,6 +9,7 @@ classes: wide
 
 ### Events organization
 
+<!---
 * December 8th 2021, Co-organizer of the [NeurIPS@Paris meeting](https://neurips2021paris.github.io), *Paris, France*
 * December 3rd 2021, Co-organizer of the [GDR TRAG Young researchers meeting](https://young-trag-2021.sciencesconf.org), *Paris, France*
 
@@ -64,7 +65,7 @@ classes: wide
 * June 2019, [51es Journées de Statistique](http://jds2019.sfds.asso.fr/), Nancy, France, ([slides]({{ site.url }}{{ site.baseurl }}/assets/docs/slides_jds.pdf))
 * May 2019, PhD students seminar at LPSM, *Sorbonne Université, Paris, France*
 * April 2019, Rencontre des Jeunes Statisticiens, *Porquerolles, France*
-
+-->
 
 
 

@@ -3,10 +3,8 @@ permalink: /teaching/
 title: "Teaching"
 classes: wide
 ---
-
-## Supervision
-
 <!---
+## Supervision
 
 * May-July 2021, Co-supervision of **Nathan Doumèche**'s master thesis on *Développement de Taylor signé et applications à l’apprentissage statistique* with [Gérard Biau](http://www.lsta.upmc.fr/biau.html) and [Pierre Marion](https://pierremarion23.github.io).
 * June-July 2020, Co-supervision of **Linus Bleistein**'s master thesis on *SiGANtures: Generating Times Series Using

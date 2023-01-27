@@ -6,6 +6,7 @@ classes: wide
 
 ## Published articles 
 
+<!---
 * **Functional linear regression with truncated signatures**. Fermanian, A. (2022)  
 *Journal of Multivariate Analysis*, Vol. 192, 105031  
 [<i class="fas fa-file-pdf"></i> pdf](https://arxiv.org/pdf/2006.08442.pdf){: .btn}  [<i class="fab fa-github"></i> code](https://github.com/afermanian/signature-regression){: .btn}
@@ -42,7 +43,7 @@ in *Functional and High-Dimensional Statistics and Related Fields, pp. 19-26, Sp
 * **Master thesis.**(2018)  
 [<i class="fas fa-file-pdf"></i> pdf]({{ site.url }}{{ site.baseurl }}/assets/docs/master_thesis_fermanian.pdf){: .btn}
 
-
+-->
 
 
 

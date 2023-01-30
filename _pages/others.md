@@ -19,6 +19,6 @@ Check their website ! > [https://www.windmyroof.com/en/](https://www.windmyroof.
 ## Régate CNRS (sailing competition)
 
 ## Why you should use ```Xarray```
-Why you shoud use the ```Xarray``` module if your a physicist using python with large, multidimensional data ? See > [here](https://docs.xarray.dev/en/stable/getting-started-guide/why-xarray.html) 
+Why you shoud use the ```Xarray``` module if you are a physicist using python with large, multidimensional data ? See > [here](https://docs.xarray.dev/en/stable/getting-started-guide/why-xarray.html) 
 
 

@@ -3,6 +3,38 @@ permalink: /teaching/
 title: "Teaching"
 classes: wide
 ---
+## Intern supervision
+*   **Alexis Brilhaut** (Bachelor Université de Paris, June 2022) _The role of vision in rheotaxis abilities of fish_.
+*   **Matthieu Melennec** (Bachelor Polytechnique, April-August 2020) _Preliminary works on an experimental study of fish schooling dynamics in altered environments_.
+*   **Jeanne Moscatelli** (M1 Sorbonne Université, January-April 2020) _Collective swimming and role of the illuminance_.
+
+## Teaching
+### As lecturer
+#### 2021 - 2022
+* **Introduction to thermodynamics**: a class introducing general concepts of thermodynamics (systems, first and second law, phase changes, ...) to L1 -1st year undergraduates- student at [CRI Université de Paris](https://odf.u-paris.fr/fr/offre-de-formation/licence-XA/sciences-technologies-sante-STS/frontiere-du-vivant-K49QUG3G/licence-frontieres-du-vivant-JWUASDUB.html).  
+[<i class="fas fa-file-pdf"></i> Syllabus]({{ site.url }}{{ site.baseurl }}/assets/docs/syllabus_LAFOUX.pdf){: .btn}
+
+
+### As a teaching assistant
+#### 2022 - 2023
+*   **Optics** (Undergraduate level, L2 [CPES PSL](https://psl.eu/en/education/multidisciplinary-undergraduate-degree-cpes)) - Exercise classes
+*   **Thermodynamics** (Undergraduate level, L2 [CPES PSL](https://psl.eu/en/education/multidisciplinary-undergraduate-degree-cpes)) - Exercice & experimental classes
+
+#### 2021 - 2022
+*   **Physics** (L1 [CRI Université de Paris](https://odf.u-paris.fr/fr/offre-de-formation/licence-XA/sciences-technologies-sante-STS/frontiere-du-vivant-K49QUG3G/licence-frontieres-du-vivant-JWUASDUB.html) - Exercise classes)
+*   **Electronics** (L2 [CRI Université de Paris](https://odf.u-paris.fr/fr/offre-de-formation/licence-XA/sciences-technologies-sante-STS/frontiere-du-vivant-K49QUG3G/licence-frontieres-du-vivant-JWUASDUB.html) - Exercise & experimental classes)
+
+#### 2020 - 2021
+*   **Mechanics and Physics** (L1 Sorbonne Université - Exercise class)
+*   **Thermodynamics** (L3 Sorbonne Université - Experimental classes)
+
+#### 2019 - 2020
+*   **Fluid Mechanics** (First year engineering student at [ENSTA Paris](https://www.ensta-paris.fr/en) - Exercise class)
+*   **MODEX** (Second year engineering student at [ENSTA Paris](https://www.ensta-paris.fr/en) - Experimental projects)
+
+
+
+
 <!---
 ## Supervision
 

@@ -2,9 +2,15 @@
 main:
   - title: "Home"
     url: /
-  - title: "Research"
-    url: /research/
+  - title: "CV"
+    url: /cv/
+  - title: "Publications"
+    url: /publications/
   - title: "Talks & events"
     url: /talks/
   - title: "Teaching"
     url: /teaching/
+  - title: "Gallery & Outreach"
+    url: /gallery/
+  - title: "Others (still interesting)"
+    url: /others/

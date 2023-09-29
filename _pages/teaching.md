@@ -4,6 +4,7 @@ title: "Teaching"
 classes: wide
 ---
 ## Intern supervision
+*   **Paul Bernard** (ESPCI-ISFP Master, M2, April-July 2023) _Study of the collective movement of tetrafish subjected to visual excitation_.
 *   **Alexis Brilhaut** (Bachelor Université de Paris, June 2022) _The role of vision in rheotaxis abilities of fish_.
 *   **Matthieu Melennec** (Bachelor Polytechnique, April-August 2020) _Preliminary works on an experimental study of fish schooling dynamics in altered environments_.
 *   **Jeanne Moscatelli** (M1 Sorbonne Université, January-April 2020) _Collective swimming and role of the illuminance_.

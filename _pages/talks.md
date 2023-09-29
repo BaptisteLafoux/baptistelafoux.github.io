@@ -12,7 +12,7 @@ classes: default
 
 * Organizer of the **PMM'Houches**, a workshop for the PhD students of the PMMH lab at the [École de Physique des Houches](https://www.houches-school-physics.com/). _May 26-29 2021_.  
 
-[![styled-image]({{ site.url }}{{ site.baseurl }}/assets/images/pmmhouches.jpg){: .align-center style="width: 40%;"}] ({{ site.url }}{{ site.baseurl }}/assets/images/pmmhouches.jpg "Happy PhD students captured just before they realize they all got Covid. Les Houches, France (2021)")
+[![styled-image]({{ site.url }}{{ site.baseurl }}/assets/images/pmmhouches.jpg){: .align-center style="width: 40%;"}]({{ site.url }}{{ site.baseurl }}/assets/images/pmmhouches.jpg "Happy PhD students captured just before they realize they all got Covid. Les Houches, France (2021)")
 {: .align-center}
 
 ## Conference talks 

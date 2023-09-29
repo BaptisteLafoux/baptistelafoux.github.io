@@ -12,16 +12,16 @@ classes: default
 
 * Organizer of the **PMM'Houches**, a workshop for the PhD students of the PMMH lab at the [École de Physique des Houches](https://www.houches-school-physics.com/). _May 26-29 2021_.  
 
-[![styled-image]({{ site.url }}{{ site.baseurl }}/assets/images/pmmhouches.jpg){: .align-center style="width: 40%;"}({{ site.url }}{{ site.baseurl }}/assets/images/pmmhouches.jpg "Happy PhD students captured just before they realize they all got Covid. Les Houches, France (2021)")
+[![styled-image]({{ site.url }}{{ site.baseurl }}/assets/images/pmmhouches.jpg){: .align-center style="width: 40%;"}] ({{ site.url }}{{ site.baseurl }}/assets/images/pmmhouches.jpg "Happy PhD students captured just before they realize they all got Covid. Les Houches, France (2021)")
 {: .align-center}
 
 ## Conference talks 
 * [European Fluid Mechanics Conference (EFMC14)](https://www.efmc14.org/), Athens September 13-16 2022  
 *Experimental investigation highlights the role of vision in fish schooling.*  
-[<i class="fas fa-file-pdf"></i> Abstract]({ site.baseurl }/assets/docs/abstract_V2_0513-196-Lafoux-Baptiste.pdf){: .btn}
+[<i class="fas fa-file-pdf"></i> Abstract]({ site.baseurl }}/assets/docs/abstract_V2_0513-196-Lafoux-Baptiste.pdf){: .btn}
 * [Journées de la matière condensée (JMC)](https://www.sfpnet.fr/journees-de-la-matiere-condensee-jmc-2022), Lyon August 22-26 2022  
 _Vision based transition in collective dynamics of a fish school under illuminance variations._  
-[<i class="fas fa-file-pdf"></i> Abstract]({ site.baseurl }/assets/docs/abstract_JMC_lyon_2022.pdf){: .btn}
+[<i class="fas fa-file-pdf"></i> Abstract]({ site.baseurl }}/assets/docs/abstract_JMC_lyon_2022.pdf){: .btn}
 * [APS Division of Fluid Dynamics (DFD) Conference](https://www.apsdfd2021.org/), Phoenix TX November 21-23 2021  
 _Order in fish collective motion is modified by environment illuminance._  
 [<i class="fas fa-file-pdf"></i> Abstract](https://meetings.aps.org/Meeting/MAR22/Session/Y11.7){: .btn}

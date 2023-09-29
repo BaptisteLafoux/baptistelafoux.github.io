@@ -1,6 +1,12 @@
 ---
 permalink: /others/
-title: "Others (but still interesting things)"
+header:
+  overlay_image: /assets/images/pcfocus.png
+  caption: 'test caption'
+  overlay_filter: 0.5
+  actions:
+    - label: 'Test' 
+title: "Others (but hopefully still interesting)"
 classes: default
 ---
 
@@ -19,6 +25,6 @@ Check their website ! > [https://www.windmyroof.com/en/](https://www.windmyroof.
 ## Régate CNRS (sailing competition)
 
 ## Why you should use ```Xarray```
-Why you shoud use the ```Xarray``` module if you are a physicist using python with large, multidimensional data ? See > [here](https://docs.xarray.dev/en/stable/getting-started-guide/why-xarray.html) 
+Why should use the ```Xarray``` module if you are a physicist using python with large, multidimensional data ? See > [here](https://docs.xarray.dev/en/stable/getting-started-guide/why-xarray.html) 
 
 

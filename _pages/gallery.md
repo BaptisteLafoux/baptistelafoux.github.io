@@ -22,7 +22,7 @@ Check out our submission for the 2021 best scientific/aesthetic video award !
 ### Chroniques Doctorales 2020
 It is an annual competition organized at ESPCI: students present their thesis in 5 minutes, with the only visual support being the material one could find at a restaurant table ! _(Video of the presentation in French)_  
 
-[![styled-image]({{ site.url }}{{ site.baseurl }}/assets/images/chroniquesdoctorales.jpg "Fish"){: .align-center style="width: 40%;"}]({{ site.url }}{{ site.baseurl }}/assets/images/chroniquesdoctorales.jpg "How to your PhD thesis to strangers in a bar !")
+[![styled-image]({{ site.url }}{{ site.baseurl }}/assets/images/chroniquesdoctorales.jpg "Fish"){: .align-center style="width: 40%;"}]({{ site.url }}{{ site.baseurl }}/assets/images/chroniquesdoctorales.jpg "How to explain your PhD thesis to strangers in a bar !")
 {: .align-center}
 
 <p align='center'>

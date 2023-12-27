@@ -10,7 +10,10 @@ classes: default
 
 * Co-organizer of the [**Coffee meeting**](https://www.pmmh.espci.fr/?-Seminaire-Cafe-Interne-), a weekly seminar at PMMH featuring invited postdocs and PhDs. _April 2021 to September 2022_.
 
-* Organizer of the **PMM'Houches**, a workshop for the PhD students of the PMMH lab at the [École de Physique des Houches](https://www.houches-school-physics.com/). _May 26-29 2021_.
+* Organizer of the **PMM'Houches**, a workshop for the PhD students of the PMMH lab at the [École de Physique des Houches](https://www.houches-school-physics.com/). _May 26-29 2021_.  
+
+[![styled-image]({{ site.url }}{{ site.baseurl }}/assets/images/pmmhouches.jpg){: .align-center style="width: 40%;"}]({{ site.url }}{{ site.baseurl }}/assets/images/pmmhouches.jpg "Happy PhD students captured just before they realize they all got Covid. Les Houches, France (2021)")
+{: .align-center}
 
 ## Conference talks 
 * [European Fluid Mechanics Conference (EFMC14)](https://www.efmc14.org/), Athens September 13-16 2022  
@@ -26,7 +29,7 @@ _Order in fish collective motion is modified by environment illuminance._
 ## Workshops
 * [Workshop on collective animal behavior](https://perso.u-cergy.fr/~pmperuani/animal_behavior.html), Cergy Paris University November 3-4 2022 
 
-## Others (for fun but still important)
+## Others
 * **Colors in scientific communication**. _May 2022_. A talk given at CoDoc 2022 (see above).  
 [<i class="fas fa-file-pdf"></i> Presentation]({{ site.url }}{{ site.baseurl }}/assets/docs/codoc2022_colors_in_scientific_communication.pdf){: .btn}
 

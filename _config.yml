@@ -59,8 +59,9 @@ plugins:
 
 author:
   avatar: "/assets/images/photo_micro.png"
-  # bio: "   
+  bio: "   
 
+  "
   # I am a PhD student at [<ins>PMMH lab</ins>](https://www.pmmh.espci.fr/?-Le-laboratoire-)"
 #  location: "Pierre & Marie Curie Campus, Jussieu"
   links:

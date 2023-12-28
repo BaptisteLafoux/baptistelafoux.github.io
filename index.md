@@ -4,7 +4,7 @@ author_profile: true
 classes: default
 ---
 
-Welcome to my personal page! Have a look around.
+<mark>Welcome to my personal page! Have a look around.</mark>
 
 
 

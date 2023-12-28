@@ -42,8 +42,12 @@
 html {
     font-size: 20px; // change to whatever
 
+    @include breakpoint($small) {
+            font-size: 20px; // change to whatever
+        }
+
     @include breakpoint($medium) {
-        font-size: 18px; // change to whatever
+        font-size: 20px; // change to whatever
     }
 
     @include breakpoint($large) {
@@ -51,6 +55,6 @@ html {
     }
 
     @include breakpoint($x-large) {
-        font-size: 22px; // change to whatever
+        font-size: 20px; // change to whatever
     }
 }

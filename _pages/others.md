@@ -25,6 +25,6 @@ classes: default
 ## Régate CNRS (sailing competition)
 
 ## Why you should use ```Xarray```
-Why should use the ```Xarray``` module if you are a physicist using python with large, multidimensional data ? See > [here](https://docs.xarray.dev/en/stable/getting-started-guide/why-xarray.html) 
+Why should you use the ```Xarray``` module if you are a physicist using Python with large, multidimensional data ? See [here](https://docs.xarray.dev/en/stable/getting-started-guide/why-xarray.html) 
 
 

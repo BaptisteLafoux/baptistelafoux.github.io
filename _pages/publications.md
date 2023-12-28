@@ -26,13 +26,13 @@ https://pubs.rsc.org/en/content/articlehtml/2021/sm/d1sm00548k?casa_token=QJ2D1Q
 [<i class="fas fa-file-pdf"></i> pdf]({{ site.url }}{{ site.baseurl }}/assets/docs/forum_acousticum_2020.pdf){: .btn}
 
 ## Miscellanous
-* Doctoral thesis: *Collective motion in altered environments*
+* **Doctoral thesis** - *Collective motion in altered environments* (2023)
 
-* CoDoc report: *A young researchers' perspective on their laboratory, their work, and research*
+* **A report on the well-being of doctoral students** in my lab - *A young researchers' perspective on their laboratory, their work, and research*, Kucher, S., Polly, G., Quiros, M., Lafoux, B. (2022)
 [<i class="fas fa-file-pdf"></i> pdf]({{ site.url }}{{ site.baseurl }}/assets/docs/Report_CoDoc_2022.pdf){: .btn}
 
-* Master thesis (in French): *Algues biomimétiques et interaction
-houle-structure*
+* **Master thesis** (in French) - *Algues biomimétiques et interaction
+houle-structure* (2019)
 [<i class="fas fa-file-pdf"></i> pdf]({{ site.url }}{{ site.baseurl }}/assets/docs/LAFOUX_rapport_M2_PMMH.pdf){: .btn}
 
 <!---

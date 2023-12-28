@@ -5,17 +5,19 @@ classes: default
 ---
 ## Events & seminar organization
 
-* Organizer of the first edition of **DoDoc** (COlloque des DOctorant.e.s), a seminar for the PhD students of the PMMH lab, to **discuss science** but also to **share on our experience as PhD students** (lab-life balance, mental health risks, perspectives for our lab). _May 23-25 2022_.
+* Organizer of the first edition of **CoDoc** (COlloque des DOctorant.e.s), a seminar for the PhD students of the PMMH lab, to <mark>discuss science</mark> but also to <mark>share on our experiences as PhD students</mark> (lab-life balance, mental health risks, perspectives for our lab). _May 23-25 2022_.
  [<i class="fas fa-file-pdf"></i> Feedback report based on our discussions]({{ site.url }}{{ site.baseurl }}/assets/docs/Report_CoDoc_2022.pdf){: .btn}
 
 * Co-organizer of the [**Coffee meeting**](https://www.pmmh.espci.fr/?-Seminaire-Cafe-Interne-), a weekly seminar at PMMH featuring invited postdocs and PhDs. _April 2021 to September 2022_.
 
-* Organizer of the **PMM'Houches**, a workshop for the PhD students of the PMMH lab at the [École de Physique des Houches](https://www.houches-school-physics.com/). _May 26-29 2021_.  
+* Organizer of the <mark>PMM'Houches</mark>, a workshop for the PhD students of the PMMH lab at the [École de Physique des Houches](https://www.houches-school-physics.com/). _May 26-29 2021_.  
 
 [![styled-image]({{ site.url }}{{ site.baseurl }}/assets/images/pmmhouches.jpg){: .align-center style="width: 40%;"}]({{ site.url }}{{ site.baseurl }}/assets/images/pmmhouches.jpg "Happy PhD students captured just before they realize they all got Covid. Les Houches, France (2021)")
 {: .align-center}
 
-## Conference talks 
+## Conference talks
+* [Rencontres du Non-Linéaire (RNL26)](http://nonlineaire.univ-lille1.fr/SNL/), Paris March 28-30 2023  
+*Shedding light on how illumination shapes fish collective dynamics*  
 * [European Fluid Mechanics Conference (EFMC14)](https://www.efmc14.org/), Athens September 13-16 2022  
 *Experimental investigation highlights the role of vision in fish schooling.*  
 [<i class="fas fa-file-pdf"></i> Abstract]({ site.baseurl }/assets/docs/abstract_V2_0513-196-Lafoux-Baptiste.pdf){: .btn}

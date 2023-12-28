@@ -2,7 +2,7 @@
 permalink: /gallery/
 title: "Gallery & Outreach"
 header:
-  overlay_image: /assets/images/pcfocus_crop.jpg
+  overlay_image: /assets/images/algues_cover.jpg
   caption: "Canopée d'algues biomimétiques"
   overlay_filter: 0.5
 classes: default

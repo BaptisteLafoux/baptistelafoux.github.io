@@ -4,6 +4,7 @@ title: "Teaching"
 classes: wide
 ---
 ## Intern supervision
+*   **Paul Bernard** (M2 ICFP, April-August 2023) _Etude du mouvement collectif de tetrafish, soumis à une excitation visuelle_.
 *   **Alexis Brilhaut** (Bachelor Université de Paris, June 2022) _The role of vision in rheotaxis abilities of fish_.
 *   **Matthieu Melennec** (Bachelor Polytechnique, April-August 2020) _Preliminary works on an experimental study of fish schooling dynamics in altered environments_.
 *   **Jeanne Moscatelli** (M1 Sorbonne Université, January-April 2020) _Collective swimming and role of the illuminance_.
@@ -11,7 +12,7 @@ classes: wide
 ## Teaching
 ### As lecturer
 #### 2021 - 2022
-* **Introduction to thermodynamics**: a class introducing general concepts of thermodynamics (systems, first and second law, phase changes, ...) to L1 -1st year undergraduates- student at [CRI Université de Paris](https://odf.u-paris.fr/fr/offre-de-formation/licence-XA/sciences-technologies-sante-STS/frontiere-du-vivant-K49QUG3G/licence-frontieres-du-vivant-JWUASDUB.html).  
+* **Introduction to thermodynamics**: a class introducing general concepts of thermodynamics (systems, first and second law, phase changes, ...) to L1 -1st year undergraduates- student at [CRI - Université de Paris](https://odf.u-paris.fr/fr/offre-de-formation/licence-XA/sciences-technologies-sante-STS/frontiere-du-vivant-K49QUG3G/licence-frontieres-du-vivant-JWUASDUB.html).  
 [<i class="fas fa-file-pdf"></i> Syllabus]({{ site.url }}{{ site.baseurl }}/assets/docs/syllabus_LAFOUX.pdf){: .btn}
 
 

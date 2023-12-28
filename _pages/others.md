@@ -20,7 +20,7 @@ classes: default
 *WindBoxes in La Défense, the business district near Paris.*
 {: .align-center}
 
-Check their website [here](https://www.windmyroof.com/en/)
+<!-- Check their website [here](https://www.windmyroof.com/en/) -->
 
 ## Régate CNRS (sailing competition)
 

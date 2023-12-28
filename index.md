@@ -4,9 +4,9 @@ author_profile: true
 classes: default
 ---
 
-<mark>Welcome to my personal page! Have a look around.</mark>
+##
 
-
+<mark>Welcome to my personal page!</mark>
 
 I am since November 2020 a PhD student at the [**PMMH laboratory**](https://www.pmmh.espci.fr/?-Le-laboratoire-) (ESPCI - PSL, Université Paris Cité & Sorbonne Université).
 I am part of the **Biomimetics and Fluid-Structure Interaction team** (aka [BIOMIM](https://www.pmmh.espci.fr/Biomimetics-and-Fluid-Structure-Interaction)), under the supervision of [Benjamin Thiria](https://scholar.google.be/citations?user=Ho7KLfUAAAAJ&hl=fr) and [Ramiro Godoy-Diana](https://blog.espci.fr/ramiro/).

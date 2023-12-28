@@ -4,10 +4,11 @@ title: "Teaching"
 classes: wide
 ---
 ## Intern supervision
-*   **Paul Bernard** (M2 ICFP, April-August 2023) _Etude du mouvement collectif de tetrafish, soumis à une excitation visuelle_.
-*   **Alexis Brilhaut** (Bachelor Université de Paris, June 2022) _The role of vision in rheotaxis abilities of fish_.
-*   **Matthieu Melennec** (Bachelor Polytechnique, April-August 2020) _Preliminary works on an experimental study of fish schooling dynamics in altered environments_.
-*   **Jeanne Moscatelli** (M1 Sorbonne Université, January-April 2020) _Collective swimming and role of the illuminance_.
+*   **Paul Bernard** (M2 ICFP - ENS, April-August 2023) _Etude du mouvement collectif de tetrafish soumis à une excitation visuelle_.
+*   **Isidore Howanou** (M2 Mathématiques de la modélisation - Sorbonne Université, March-July 2023) _Modélisation numérique du mouvement collectif des poissons sous perturbations visuelles_. (co-supervised with [Nastassia Pouradier-Duteil](https://sites.google.com/site/nastassiapouradierduteil/) at LJLL)
+*   **Alexis Brilhaut** (Bachelor - Université de Paris, June 2022) _The role of vision in rheotaxis abilities of fish_.
+*   **Matthieu Melennec** (Bachelor - Polytechnique, April-August 2020) _Preliminary works on an experimental study of fish schooling dynamics in altered environments_.
+*   **Jeanne Moscatelli** (M1 Fluid mechanics - Sorbonne Université, January-April 2020) _Collective swimming and role of the illuminance_.
 
 ## Teaching
 ### As lecturer

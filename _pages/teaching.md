@@ -1,7 +1,7 @@
 ---
 permalink: /teaching/
 title: "Teaching"
-classes: wide
+classes: default
 ---
 ## Intern supervision
 *   **Paul Bernard** (M2 ICFP - ENS, April-August 2023) _Etude du mouvement collectif de tetrafish soumis à une excitation visuelle_.

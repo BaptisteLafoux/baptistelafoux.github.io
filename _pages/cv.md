@@ -40,6 +40,30 @@ classes: default
 ## 2017-2020: COO & co-founder of WIND my ROOF
 @[**WIND my ROOF**](https://www.windmyroof.com/en/) -_Paris_
 
-* Design, production and distribution of an innovative roof-mounted wind turbine module
+*Design, production and distribution of an innovative roof-mounted wind turbine module*
+
 * Created the start-up: patent registration, industrialization, business plan, pre-seed
 * Winner of the [VINCI Innovation Prize](https://www.vinci.com/vinci.nsf/fr/item/prix-innovation-vinci.htm) (2017), project supported by the Leonard incubator
+
+## 2017: Visiting research intern
+@M.I.T. in the [Fluid dynamic of disease transmission group]() with [Lydia Bourouiba](https://fr.wikipedia.org/wiki/Lydia_Bourouiba) –_Boston_
+
+*Soil pathogens transport by the rain : droplet impacts on granular media*
+
+* Developed an experimental protocol for tracking the ejection of soil particles after a drop impact with high speed cameras (MATLAB) 
+
+# Education 
+## 2020-2023: Doctorate 
+@[**PMMH laboratory**](https://www.pmmh.espci.fr/Biomimetics-and-Fluid-Structure-Interaction) with [Benjamin Thiria](https://scholar.google.be/citations?user=Ho7KLfUAAAAJ&hl=fr) and [Ramiro Godoy-Diana](https://blog.espci.fr/ramiro/) -_Paris_
+
+[<i class="fas fa-file-pdf"></i> Thesis manuscript]({{ site.url }}{{ site.baseurl }}/assets/docs/CV_2024_EN-1.pdf){: .btn} 
+
+## 2018-2020: Master of Science
+@[**école Polytechnique - IPP**](https://www.ip-paris.fr/en/education/masters/mechanics-program/master-year-2-fluid-mechanics) -_Paris_
+
+* Fluid mechanics specialization with a focus on current research topics 	
+  * Advanced experimental methods & theory in fluid mechanics
+  * Geophysical flows & waves
+  * Computational fluid dynamics
+  * Turbulence & instabilities
+  * Experimental project on Leidenfrost effect (with [Ambre Bouillant](https://scholar.google.fr/citations?user=LbHQY1cAAAAJ&hl=en) in [LadHyx](https://www.ladhyx.polytechnique.fr/))

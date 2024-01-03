@@ -8,8 +8,7 @@ header:
   overlay_image: /assets/images/cover_crop.jpg
   overlay_filter: 0.5
   actions:
-    - label: "Download the PDF version"
-    url: "{{ site.url }}{{ site.baseurl }}/assets/docs/CV_2024_EN-1.pdf"
+    - label: 'Download the PDF version' 
 classes: default
 
 ---

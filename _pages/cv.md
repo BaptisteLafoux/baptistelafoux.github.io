@@ -14,7 +14,8 @@ classes: default
 
 # Experience
 ## 2020-2024: Doctoral researcher 
-[PMMH laboratory](https://www.pmmh.espci.fr/Biomimetics-and-Fluid-Structure-Interaction)
+[PMMH laboratory](https://www.pmmh.espci.fr/Biomimetics-and-Fluid-Structure-Interaction) with [Benjamin Thiria](https://scholar.google.be/citations?user=Ho7KLfUAAAAJ&hl=fr) and [Ramiro Godoy-Diana](https://blog.espci.fr/ramiro/)
+
 *Understanding and modeling collective motion using the example of fish schools*
 
 * Designed and implemented two hydrodynamic experimental setups: mechanical design, sensor electronics, image acquisition, tracking algorithms (pyTrack) 
@@ -24,7 +25,11 @@ classes: default
 * Teaching assistant: student project supervision, experimental & training classes 
 * PhD students' representative, organizer of a young researchers' seminar (4 days, 50 people)
 
-## 2019: Resaerch intern
-**Understanding and modeling collective motion using the example of fish schools**
+## 2019: Research intern
+[IMSIA laboratory](https://www.ensta-paris.fr/en/node/1153) with [Benjamin Cotté](https://perso.ensta-paris.fr/~cotte/) and [Romain Monchaux](https://perso.ensta-paris.fr/~monchaux/)
 
+*Understanding and modeling collective motion using the example of fish schools*
 
+* Master thesis: Prediction and reduction of noise pollution due to wind turbines
+* Modified and optimized a wind tunnel setup with aerodynamic force measurement (MATLAB, LabView) 
+* Developed a pipeline for signal processing of aero-acoustic timeseries (Python)

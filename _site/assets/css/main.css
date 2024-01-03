@@ -146,10 +146,10 @@ a:focus, button:focus { /* Default*/ outline: thin dotted #6f777d; /* Webkit*/ o
 /* ========================================================================== STYLE RESETS ========================================================================== */
 * { box-sizing: border-box; }
 
-html { /* apply a natural box layout model to all elements */ box-sizing: border-box; background-color: #fff; font-size: 16px; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; }
-@media (min-width: 48em) { html { font-size: 18px; } }
+html { /* apply a natural box layout model to all elements */ box-sizing: border-box; background-color: #fff; font-size: 20px; -webkit-text-size-adjust: 100%; -ms-text-size-adjust: 100%; }
+@media (min-width: 48em) { html { font-size: 20px; } }
 @media (min-width: 64em) { html { font-size: 20px; } }
-@media (min-width: 80em) { html { font-size: 22px; } }
+@media (min-width: 80em) { html { font-size: 20px; } }
 
 /* Remove margin */
 body { margin: 0; }
@@ -1192,10 +1192,10 @@ body { display: -webkit-box; display: -ms-flexbox; display: flex; min-height: 10
 @media (min-width: 80em) { .splash .sidebar__right { margin-right: 0; } }
 
 /* Author profile and links ========================================================================== */
-.author__avatar { display: table-cell; vertical-align: bottom; width: 36px; height: 36px; }
-@media (min-width: 64em) { .author__avatar { display: block; width: auto; height: auto; } }
-.author__avatar img { max-width: 250px; border-radius: 0%; }
-@media (min-width: 64em) { .author__avatar img { padding: 0px; border: 0px solid #f2f3f3; } }
+.author__avatar { display: table-cell; vertical-align: bottom; width: 90px; height: 90px; }
+@media (min-width: 80em) { .author__avatar { display: block; width: auto; height: auto; } }
+.author__avatar img { max-width: 250px; min-width: 125px; border-radius: 0%; }
+@media (min-width: 80em) { .author__avatar img { padding: 0px; border: 0px solid #f2f3f3; } }
 
 .author__content { display: table-cell; vertical-align: top; padding-left: 15px; padding-right: 25px; line-height: 1; }
 @media (min-width: 64em) { .author__content { display: block; width: 100%; padding-left: 0; padding-right: 0; } }

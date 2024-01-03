@@ -14,14 +14,14 @@
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 title: Baptiste Lafoux
-subtitle: The PhD student you need!
-email: baptiste.lafoux@espci.fr
+subtitle: Personal webpage
+email: b.lafoux@gmail.com
 description: >- # this means to ignore newlines until "baseurl:"
   Welcome to my personal page!
 url: https://baptistelafoux.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 twitter_username: baptiste_lfx
 github_username: baptiste_lfx
-minimal_mistakes_skin: dark
+minimal_mistakes_skin: contrast
 search: false
 atom_feed:
     hide: true
@@ -58,24 +58,25 @@ plugins:
   - jekyll-include-cache
 
 author:
-  avatar: "/assets/images/profil_laser.JPG"
+  avatar: "/assets/images/photo_micro.png"
   bio: "   
 
-  I am a PhD student at [<ins>PMMH lab</ins>](https://www.pmmh.espci.fr/?-Le-laboratoire-): here is a picture of me having fun with a dangerous laser"
-  location: "Pierre & Marie Curie Campus, Jussieu"
+  "
+  # I am a PhD student at [<ins>PMMH lab</ins>](https://www.pmmh.espci.fr/?-Le-laboratoire-)"
+#  location: "Pierre & Marie Curie Campus, Jussieu"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-paper-plane"
-      url: "mailto:baptiste.lafoux@espci.fr"
+      url: "mailto:b.lafoux@gmail.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/BaptisteLafoux"
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=ZgGBPKUAAAAJ&hl=en"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/baptiste_lfx"
+    # - label: "Twitter"
+    #   icon: "fab fa-fw fa-twitter-square"
+    #   url: "https://twitter.com/baptiste_lfx"
     - label: "OrcID"
       icon: "fas fa-fw fa-id-card"
       url: "https://orcid.org/0000-0001-7011-6795"
@@ -84,16 +85,16 @@ footer:
   links:
     - label: "Email"
       icon: "fas fa-fw fa-paper-plane"
-      url: "mailto:baptiste.lafoux@espci.fr"
+      url: "mailto:b.lafoux@gmail.com"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/BaptisteLafoux"
     - label: "Google Scholar"
       icon: "fas fa-fw fa-graduation-cap"
       url: "https://scholar.google.com/citations?user=ZgGBPKUAAAAJ&hl=en"
-    - label: "Twitter"
-      icon: "fab fa-fw fa-twitter-square"
-      url: "https://twitter.com/baptiste_lfx"
+    # - label: "Twitter"
+    #   icon: "fab fa-fw fa-twitter-square"
+    #   url: "https://twitter.com/baptiste_lfx"
     - label: "OrcID"
       icon: "fas fa-fw fa-id-card"
       url: "https://orcid.org/0000-0001-7011-6795"

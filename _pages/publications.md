@@ -17,6 +17,8 @@ https://pubs.rsc.org/en/content/articlehtml/2021/sm/d1sm00548k?casa_token=QJ2D1Q
 
 ## Preprints
 
+## Patents
+* Brichot A., Maacha Y., Lafoux B., _Dispositif éolien pour la récupération de l’énergie éolienne pour des bâtiments_. [FR1909599](https://data.inpi.fr/brevets/FR3100289?q=Wind%20my%20roof#FR3100289), [EP3786445](https://data.inpi.fr/brevets/EP3786445?q=Wind%20my%20roof#EP3786445)
 
 ## Conference proceedings
 

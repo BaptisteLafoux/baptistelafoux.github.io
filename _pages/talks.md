@@ -29,7 +29,7 @@ _Order in fish collective motion is modified by environment illuminance._
 [<i class="fas fa-file-pdf"></i> Abstract](https://meetings.aps.org/Meeting/MAR22/Session/Y11.7){: .btn}
 
 ## Workshops
-* [Workshop on collective animal behavior](https://perso.u-cergy.fr/~pmperuani/animal_behavior.html), Cergy Paris University November 3-4 2022 
+* Invited speaker at the [mini-workshop on collective animal behavior](https://perso.u-cergy.fr/~pmperuani/animal_behavior.html), Cergy Paris University November 3-4 2022 
 
 ## Others
 * **Colors in scientific communication**. _May 2022_. A talk given at CoDoc 2022 (see above).  

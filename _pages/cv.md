@@ -2,14 +2,14 @@
 permalink: /cv/
 title: "Curriculum vitae"
 toc: true
-toc_label: "Curriculum vitae"
+toc_label: "  Curriculum vitae"
 toc_sticky: true
 header:
   overlay_image: /assets/images/cover_crop.jpg
   overlay_filter: 0.5
-actions:
-  label: "Download the PDF version"
-  url: "{{ site.url }}{{ site.baseurl }}/assets/docs/CV_2024_EN-1.pdf"
+  actions:
+    - label: "Download the PDF version"
+    url: "{{ site.url }}{{ site.baseurl }}/assets/docs/CV_2024_EN-1.pdf"
 classes: default
 
 ---
@@ -56,9 +56,9 @@ classes: default
 ## 2020-2023: Doctorate 
 @[**PMMH laboratory**](https://www.pmmh.espci.fr/Biomimetics-and-Fluid-Structure-Interaction) with [Benjamin Thiria](https://scholar.google.be/citations?user=Ho7KLfUAAAAJ&hl=fr) and [Ramiro Godoy-Diana](https://blog.espci.fr/ramiro/) -_Paris_
 
-[<i class="fas fa-file-pdf"></i> Thesis manuscript]({{ site.url }}{{ site.baseurl }}/assets/docs/CV_2024_EN-1.pdf){: .btn} 
+[<i class="fas fa-file-pdf"></i> Thesis manuscript]({{ site.url }}{{ site.baseurl }}/assets/docs/thesis.pdf){: .btn} 
 
-## 2018-2020: Master of Science
+## 2018-2019: Master of Science
 @[**école Polytechnique - IPP**](https://www.ip-paris.fr/en/education/masters/mechanics-program/master-year-2-fluid-mechanics) -_Paris_
 
 * Fluid mechanics specialization with a focus on current research topics 	
@@ -67,3 +67,17 @@ classes: default
   * Computational fluid dynamics
   * Turbulence & instabilities
   * Experimental project on Leidenfrost effect (with [Ambre Bouillant](https://scholar.google.fr/citations?user=LbHQY1cAAAAJ&hl=en) in [LadHyx](https://www.ladhyx.polytechnique.fr/))
+
+## 2015-2020: Engineering degree
+@[**École Nationale des Ponts et Chaussées**](https://ecoledesponts.fr/bienvenue-ecole) –_Champs-sur-Marne_
+
+*Generalist engineering school with a speclization in [Material and Mechanical Engineering](https://ecoledesponts.fr/genie-mecanique-et-materiaux)* 
+
+* Advanced applied mathematics, fluid and solid mechanics (theoretical and computational)
+* Algorithmics and data structures (C++), software development (Python), statistics
+* Introduction to research, energy production, project management 
+
+## 2013-2015: Preparatory class
+@[**Lycée Henri-Poincaré**](https://lycee-poincare.fr/les-classes-preparatoires-cpge/) –_Nancy_
+* 2-year intensive post-secondary program preparing to nation-wide test for admission into top French engineering schools (PCSI, PSI*)
+  * General mathematics, physics and engineering

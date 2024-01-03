@@ -3,14 +3,13 @@ permalink: /cv/
 title: "Curriculum vitae"
 toc: true
 toc_label: "Curriculum vitae"
-toc_icon: "cog"
 toc_sticky: true
 header:
   overlay_image: /assets/images/cover_crop.jpg
   overlay_filter: 0.5
 classes: default
 ---
-
+[<i class="fas fa-file-pdf"></i> PDF file of my resume]({{ site.url }}{{ site.baseurl }}/assets/docs/CV_2024_EN-1.pdf){: .btn} 
 
 # Experience
 ## 2020-2024: Doctoral researcher 
@@ -34,7 +33,7 @@ classes: default
 * Modified and optimized a wind tunnel setup with aerodynamic force measurement (MATLAB, LabView) 
 * Developed a pipeline for signal processing of aero-acoustic timeseries (Python)
 
-## COO & co-founder of WIND my ROOF
+## 2017-2020: COO & co-founder of WIND my ROOF
 @[**WIND my ROOF**](https://www.windmyroof.com/en/) -_Paris_
 
 * Design, production and distribution of an innovative roof-mounted wind turbine module

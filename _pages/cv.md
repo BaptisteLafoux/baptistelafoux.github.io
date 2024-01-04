@@ -6,9 +6,10 @@ toc_label: "  Curriculum vitae"
 toc_sticky: true
 header:
   overlay_image: /assets/images/cover_crop.jpg
-  overlay_filter: 0.5
+  overlay_filter: 0.5 
   actions:
     - label: 'Download the PDF version' 
+    url: "https://baptistelafoux.github.io/assets/docs/CV_2024_EN-1.pdf"
 classes: default
 
 ---

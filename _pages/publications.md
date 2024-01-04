@@ -16,7 +16,7 @@ https://pubs.rsc.org/en/content/articlehtml/2021/sm/d1sm00548k?casa_token=QJ2D1Q
 [<i class="fas fa-file-pdf"></i> pdf]({{ site.url }}{{ site.baseurl }}/assets/docs/thermophobic_leidenfrost.pdf){: .btn} 
 
 ## Preprints
-
+* Lafoux, B., Bernard, P., Thiria, B., Godoy-Diana, R., [**Confinement-driven state transition and bistability in schooling fish**](https://arxiv.org/abs/2401.01850) [<i class="fas fa-file-pdf"></i> pdf](https://arxiv.org/pdf/2401.01850.pdf){: .btn} 
 
 ## Conference proceedings
 
@@ -28,7 +28,7 @@ https://pubs.rsc.org/en/content/articlehtml/2021/sm/d1sm00548k?casa_token=QJ2D1Q
 ## Miscellanous
 * **Doctoral thesis** - *Collective motion in altered environments* (2023)
 
-* **A report on the well-being of doctoral students** in my lab - *A young researchers' perspective on their laboratory, their work, and research*, Kucher, S., Polly, G., Quiros, M., Lafoux, B. (2022)
+* **A report on the well-being of doctoral students** in my lab - *Vision of PMMH, A young researchers' perspective on their laboratory, their work, and research*, Kucher, S., Polly, G., Quiros, M., Lafoux, B. (2022)
 [<i class="fas fa-file-pdf"></i> pdf]({{ site.url }}{{ site.baseurl }}/assets/docs/Report_CoDoc_2022.pdf){: .btn}
 
 * **Master thesis** (in French) - *Algues biomimétiques et interaction

@@ -16,7 +16,13 @@ https://pubs.rsc.org/en/content/articlehtml/2021/sm/d1sm00548k?casa_token=QJ2D1Q
 [<i class="fas fa-file-pdf"></i> pdf]({{ site.url }}{{ site.baseurl }}/assets/docs/thermophobic_leidenfrost.pdf){: .btn} 
 
 ## Preprints
+
 * Lafoux, B., Bernard, P., Thiria, B., Godoy-Diana, R., [**Confinement-driven state transition and bistability in schooling fish**](https://arxiv.org/abs/2401.01850) [<i class="fas fa-file-pdf"></i> pdf](https://arxiv.org/pdf/2401.01850.pdf){: .btn} 
+=======
+
+## Patents
+* **Registrant**: WIND my ROOF, **inventors**: Brichot A., Maacha Y., Lafoux B., _Dispositif éolien pour la récupération de l’énergie éolienne pour des bâtiments_. [FR1909599](https://data.inpi.fr/brevets/FR3100289?q=Wind%20my%20roof#FR3100289), [EP3786445](https://data.inpi.fr/brevets/EP3786445?q=Wind%20my%20roof#EP3786445)
+
 
 ## Conference proceedings
 

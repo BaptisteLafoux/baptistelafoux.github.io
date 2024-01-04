@@ -31,7 +31,7 @@ https://pubs.rsc.org/en/content/articlehtml/2021/sm/d1sm00548k?casa_token=QJ2D1Q
 [<i class="fas fa-file-pdf"></i> pdf]({{ site.url }}{{ site.baseurl }}/assets/docs/forum_acousticum_2020.pdf){: .btn}
 
 ## Miscellanous
-* **Doctoral thesis** - *Collective motion in altered environments* (2023)
+* **Doctoral thesis** - I have defended my PhD thesis in December 2023, you can find my [here]() my dissertation, entitled *Collective motion in altered environments* 
 
 * **A report on the well-being of doctoral students** in my lab - *Vision of PMMH, A young researchers' perspective on their laboratory, their work, and research*, Kucher, S., Polly, G., Quiros, M., Lafoux, B. (2022)
 [<i class="fas fa-file-pdf"></i> pdf]({{ site.url }}{{ site.baseurl }}/assets/docs/Report_CoDoc_2022.pdf){: .btn}
@@ -48,7 +48,7 @@ houle-structure* (2019)
 
 ## PhD dissertation
 
-I have defended my PhD thesis in October 2021, you can find my dissertation, entitled 
+
 
 
 

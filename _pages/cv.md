@@ -16,6 +16,10 @@ classes: default
 <!-- [<i class="fas fa-file-pdf"></i> PDF file of my resume]({{ site.url }}{{ site.baseurl }}/assets/docs/CV_2024_EN-1.pdf){: .btn}  -->
 
 # Experience
+
+## 2024: Project «sailing *Petit Bouillon* across Europe | 2024 (6 mo.)
+Achieving a personal long term project after my thesis: to renovate my 8m-sailboat and sail 4000km across Europe (including bay of Biscay, Gibraltar strait crossings).
+
 ## 2020-2024: Doctoral researcher 
 @[**PMMH laboratory**](https://www.pmmh.espci.fr/Biomimetics-and-Fluid-Structure-Interaction) with [Benjamin Thiria](https://scholar.google.be/citations?user=Ho7KLfUAAAAJ&hl=fr) and [Ramiro Godoy-Diana](https://blog.espci.fr/ramiro/) -_Paris_
 

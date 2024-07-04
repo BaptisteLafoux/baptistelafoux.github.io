@@ -17,7 +17,7 @@ classes: default
 
 # Experience
 
-## 2024: Project «sailing *Petit Bouillon* across Europe | 2024 (6 mo.)
+## 2024: Project "sailing *Petit Bouillon*"
 Achieving a personal long term project after my thesis: to renovate my 8m-sailboat and sail 4000km across Europe (including bay of Biscay, Gibraltar strait crossings).
 
 ## 2020-2024: Doctoral researcher 

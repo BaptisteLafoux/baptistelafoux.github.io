@@ -4,16 +4,16 @@ title: "Curriculum vitae"
 toc: true
 toc_label: "  Curriculum vitae"
 toc_sticky: true
-header:
-  overlay_image: /assets/images/cover_crop.jpg
-  overlay_filter: 0.2
-  actions:
-    - label: 'Download the PDF version' 
-    url: "https://baptistelafoux.github.io/assets/docs/CV_2024_EN-1.pdf"
+# header:
+#   overlay_image: /assets/images/cover_crop.jpg
+#   overlay_filter: 0.2
+#   actions:
+#     - label: 'Download the PDF version' 
+#     url: "https://baptistelafoux.github.io/assets/docs/CV_2024_EN-1.pdf"
 classes: default
 
 ---
-<!-- [<i class="fas fa-file-pdf"></i> PDF file of my resume]({{ site.url }}{{ site.baseurl }}/assets/docs/CV_2024_EN-1.pdf){: .btn}  -->
+
 
 # Experience
 

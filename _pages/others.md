@@ -24,6 +24,10 @@ classes: default
 
 ## Régate CNRS (sailing competition)
 
+[![styled-image]({{ site.url }}{{ site.baseurl }}/assets/images/regate2023.jpg "This is some hover text"){: .align-center style="width: 100%;"}]({{ site.url }}{{ site.baseurl }}/assets/images/regate2023.jpg "The dream team for the 2023-edition of CNRS regatta in Le Crouesty (Morbihan)")
+*The dream team for the 2023-edition of CNRS regatta in Le Crouesty (Morbihan)*
+{: .align-center}
+
 ## Why you should use ```Xarray```
 Why should you use the ```Xarray``` module if you are a physicist using Python with large, multidimensional data ? See [here](https://docs.xarray.dev/en/stable/getting-started-guide/why-xarray.html) 
 

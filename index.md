@@ -5,7 +5,8 @@ classes: default
 ---
 
 <mark>Welcome to my personal page!</mark>
-I am open to job opportunities starting Sep 2024, as R&D engineer or data-scientist, in the field of oceanography or climate science. 
+
+**I am open to job opportunities starting Sep 2024, as R&D engineer or data-scientist, in the field of oceanography or climate science.** 
 
 I am currently realizing a long term personal project, post-thesis : after renovating it, I am sailing accros Europe on my 8m-boat *Petit Bouillon*, from the Franch Atlantic coast to the Mediterranean Sea. This 6 months trip is coming to an end in Sep. 2024. 
 

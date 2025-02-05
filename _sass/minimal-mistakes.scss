@@ -40,21 +40,43 @@
 @import "minimal-mistakes/print";
 
 html {
-    font-size: 20px; // change to whatever
+    font-size: 16px; // Reduced from 20px for better readability
 
     @include breakpoint($small) {
-            font-size: 20px; // change to whatever
-        }
+        font-size: 16px;
+    }
 
     @include breakpoint($medium) {
-        font-size: 20px; // change to whatever
+        font-size: 17px;
     }
 
     @include breakpoint($large) {
-        font-size: 20px; // change to whatever
+        font-size: 18px;
     }
 
     @include breakpoint($x-large) {
-        font-size: 20px; // change to whatever
+        font-size: 18px;
     }
+}
+
+.page__content {
+    p, li {
+        font-size: 0.9em;
+        line-height: 1.7;
+    }
+    
+    h1 {
+        margin-top: 1.5em;
+        margin-bottom: 0.5em;
+    }
+    
+    h2 {
+        margin-top: 1.2em;
+        margin-bottom: 0.4em;
+        color: #2c3e50;
+    }
+}
+
+.btn {
+    margin: 0.2em 0.3em;
 }

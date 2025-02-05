@@ -21,7 +21,7 @@ description: >- # this means to ignore newlines until "baseurl:"
 url: https://baptistelafoux.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 twitter_username: baptiste_lfx
 github_username: baptiste_lfx
-minimal_mistakes_skin: contrast
+minimal_mistakes_skin: "air"
 search: false
 atom_feed:
     hide: true
@@ -59,9 +59,7 @@ plugins:
 
 author:
   avatar: "/assets/images/photo_micro.png"
-  bio: "   
-
-  "
+  bio: "PhD in Fluid Mechanics | Data Science | Oceanography"
   # I am a PhD student at [<ins>PMMH lab</ins>](https://www.pmmh.espci.fr/?-Le-laboratoire-)"
 #  location: "Pierre & Marie Curie Campus, Jussieu"
   links:

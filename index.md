@@ -2,9 +2,8 @@
 layout: single
 author_profile: true
 classes: default
+title: "Welcome 👋"
 ---
-
-# Welcome! 👋
 
 I am a fluid mechanics researcher with expertise in experimental methods and data analysis. I currently work at D-ICE engineering (Nantes, France) as an R&D engineer.
 
